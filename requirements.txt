@@ -1,1 +1,5 @@
-gradio
+streamlit
+mediapipe
+opencv-python-headless
+numpy
+imageio-ffmpeg
